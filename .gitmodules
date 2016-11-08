@@ -1,0 +1,18 @@
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:t3hpr1m3/dockerized-ansible.git
+[submodule "awscli"]
+	path = awscli
+	url = git@github.com:t3hpr1m3/dockerized-awscli.git
+[submodule "eclipse"]
+	path = eclipse
+	url = git@github.com:t3hpr1m3/dockerized-eclipse.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:t3hpr1m3/dockerized-golang.git
+[submodule "gradle"]
+	path = gradle
+	url = git@github.com:t3hpr1m3/dockerized-gradle.git
+[submodule "virt-manager"]
+	path = virt-manager
+	url = git@github.com:t3hpr1m3/dockerized-virt-manager.git
