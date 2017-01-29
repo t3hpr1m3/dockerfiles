@@ -16,3 +16,6 @@
 [submodule "virt-manager"]
 	path = virt-manager
 	url = git@github.com:t3hpr1m3/dockerized-virt-manager.git
+[submodule "hostapd"]
+	path = hostapd
+	url = git@github.com:t3hpr1m3/dockerized-hostapd.git
