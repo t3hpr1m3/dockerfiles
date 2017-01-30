@@ -19,3 +19,6 @@
 [submodule "hostapd"]
 	path = hostapd
 	url = git@github.com:t3hpr1m3/dockerized-hostapd.git
+[submodule "dhcpd"]
+	path = dhcpd
+	url = git@github.com:t3hpr1m3/dockerized-dhcpd.git
