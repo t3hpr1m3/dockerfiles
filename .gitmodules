@@ -25,3 +25,9 @@
 [submodule "bind9"]
 	path = bind9
 	url = git@github.com:t3hpr1m3/dockerized-bind9.git
+[submodule "elixir"]
+	path = elixir
+	url = git@github.com:t3hpr1m3/dockerized-elixir.git
+[submodule "rubynode"]
+	path = rubynode
+	url = git@github.com:t3hpr1m3/dockerized-rubynode.git
