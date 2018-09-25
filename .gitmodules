@@ -34,3 +34,6 @@
 [submodule "elixir-dev"]
 	path = elixir-dev
 	url = git@github.com:t3hpr1m3/dockerized-elixir-dev.git
+[submodule "erlang"]
+	path = erlang
+	url = git@github.com:t3hpr1m3/dockerized-erlang.git
